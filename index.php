@@ -65,4 +65,5 @@ $query = "SELECT * FROM admin";
 
 </div>
 </body>
+<!-- I put comment -->
 </html>
