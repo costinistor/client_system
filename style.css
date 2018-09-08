@@ -1,0 +1,71 @@
+.bar-title{
+	background: #242c3a;
+	height: 1px;
+}
+.bar-title h1{
+	padding: 7px 30px;
+	color: #fff;
+}
+.form-signin{
+	width: 300px;
+	display: table;
+	margin: 0 auto;
+}
+.header{
+	padding: 10px 0;
+}
+.jumbotron{
+	padding: 20px;
+}
+.table td, .table th {
+    padding: 0 6px 0 0;
+    vertical-align: initial;
+}
+.table th{
+	padding: 8px 6px 8px 0;
+	background: #cccdce;
+}
+.warning{
+	border: 1px solid #a30101;
+	padding: 4px;
+	text-align: center;
+	border-radius: 5px;
+}
+.jumbotron, .jumb{
+	background:#85b6cf;
+	border-radius: .3rem;
+}
+.jumb{
+	
+}
+.title-list{
+	color: #fff;
+	padding: 7px 10px;
+}
+.box-data{
+	/* border: 1px solid rgba(0,0,0,.15); */
+	padding: 7px 10px 0 3px;
+	margin-top: 25px;
+	border-radius: 5px;
+}
+.curency{
+	border: 1px solid rgba(0,0,0,.15);
+	display: table;
+	padding: 6px;
+	border-radius: .25rem;
+	margin-left: 7px;
+	margin-bottom: 20px;
+}
+.search-section{
+	margin-bottom: 7px;
+}
+.box-succes{
+	height: 60px;
+}
+.succes-client{
+	border: 1px solid #97f0fc;
+	padding: 6px 10px;
+	display: table;
+	border-radius: 5px;
+	font-size: 20px;
+}
